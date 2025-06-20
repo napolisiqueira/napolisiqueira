@@ -66,7 +66,7 @@ Me chamo Felipe Napoli Siqueira, tenho 20 anos e sou da capital de São Paulo. C
 <div align=center>
 
 ### 💼 Projetos em Destaque
-- 🗃️ [API de Cadastro com Django](https://github.com/napolisiqueira/seu-projeto-exemplo) - 🌐 [Portfólio com Flask](https://github.com/napolisiqueira/seu-portfolio) - 📊 [Sistema de Relatórios](https://github.com/napolisiqueira/seu-relatorio)
+🗃️ [API de Cadastro com Django](https://github.com/napolisiqueira/seu-projeto-exemplo) 🌐 [Portfólio com Flask](https://github.com/napolisiqueira/seu-portfolio) 📊 [Sistema de Relatórios](https://github.com/napolisiqueira/seu-relatorio)
 
 </div>
 </br>
