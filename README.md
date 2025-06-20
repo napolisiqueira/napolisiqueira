@@ -25,13 +25,13 @@ Me chamo Felipe Napoli Siqueira, tenho 20 anos e sou da capital de São Paulo. C
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/napolisiqueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/__fazito__/">
+    <a href="https://www.instagram.com/felipenapolisqr/">
         <img 
             alt="Instagram"
             title="Instagram"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/seu-usuario/">
+    <a href="www.linkedin.com/in/felipenapolisqr">
         <img 
             alt="LinkedIn"
             title="LinkedIn"
