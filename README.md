@@ -155,7 +155,6 @@ Me chamo Felipe Napoli Siqueira, tenho 20 anos e sou da capital de São Paulo. C
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=napolisiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
