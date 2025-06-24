@@ -97,7 +97,7 @@ Me chamo Felipe Napoli Siqueira, tenho 20 anos e sou da capital de São Paulo. C
 ---
 
 ### ✉️ Entre em Contato
-Fique à vontade para me chamar pelo [LinkedIn](www.linkedin.com/in/felipenapolisqr) ou [Instagram](https://www.instagram.com/felipenapolisqr/) caso queira trocar uma ideia ou colaborar!
+Fique à vontade para me chamar pelo [LinkedIn](http://www.linkedin.com/in/felipenapolisqr/) ou [Instagram](https://www.instagram.com/felipenapolisqr/) caso queira trocar uma ideia ou colaborar!
 
 </div>
 <br>
