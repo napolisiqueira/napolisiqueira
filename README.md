@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=faf7f7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0077cc,100:00eaff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&size=30&pause=1000&color=faf7f7&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+PROFILE!;MY+NAME+IS+FELIPE+NAPOLI;I'M+20+YEARS+OLD)](https://git.io/typing-svg)
 <br>
@@ -7,7 +7,9 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Felipe Napoli Siqueira, tenho 20 anos e sou da capital de São Paulo. Concluí o ensino médio no Saint Clair e atualmente estou cursando Engenharia. Sou apaixonado por tecnologia, estudos e novos conhecimentos. Trabalho como desenvolvedor back-end e, nas horas vagas, gosto de explorar projetos fullstack mais básicos com Django e Flask.
+Olá! Meu nome é Felipe, sou estudante de Engenharia de Software e atualmente estou mergulhado de cabeça no universo do desenvolvimento web. Tenho focado meus estudos em Python e frameworks modernos como Django e FastAPI, conciliando bootcamps, projetos pessoais e aprendizado contínuo.
+Neste momento, estou construindo meu próprio portfólio do zero — desde o backend até a estrutura visual — para consolidar tudo o que venho aprendendo.
+Sigo evoluindo um passo de cada vez, valorizando mais a consistência do que a pressa. Todos os repositórios por aqui são parte do meu processo de aprendizado contínuo.
 </div>
 
 <div align=center>
@@ -45,19 +47,13 @@ Me chamo Felipe Napoli Siqueira, tenho 20 anos e sou da capital de São Paulo. C
 <div align=center>
 
 ### 🤖 Linguagens e Tecnologias
-<img  alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img  alt="Goland" title="Golang" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-<img  alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img  alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img  alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img  alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img  alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img  alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img  alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img  alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img  alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img  alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img  alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+      
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask,go,java,mysql,postgres,sqlite,mongodb,css,html,bootstrap,git,docker,debian,ubuntu,arch,bash,linux&perline=10)](https://skillicons.dev)
+  
+  </a>
+</p>
 </div>
 
 <br/>
@@ -78,13 +74,24 @@ Me chamo Felipe Napoli Siqueira, tenho 20 anos e sou da capital de São Paulo. C
 ### 📊 Estatísticas
 </br>
 <a href="https://github.com/napolisiqueira">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=napolisiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=napolisiqueira&layout=compact&langs_count=7&theme=dark"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=napolisiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=napolisiqueira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </br>
 
 ---
 
+<div align="center">
+    <h3>PROJETOS EM ANDAMENTO</h3>
+<div align="center">🛒 E-commerce: um sistema completo com autenticação, carrinho de compras, painel administrativo e controle de estoque 🛒</div><br>
+<div align="center">📒 Address Book: uma aplicação para gerenciamento de contatos com foco em usabilidade e organização 📒</div><br>
+<div align="center">✍️ Blog: simples, direto e funcional — voltado para leitura e escrita de artigos, com sistema de categorias e comentários ✍️</div><br>
+<div align="center">🌐 Meu site pessoal: em construção! Estou aplicando tudo o que venho aprendendo para criar 🌐</div><br>
+<div align="center">🌐 um espaço que represente minha trajetória e projetos 🌐</div><br>
+
+</div>
+
+---
 <div align=center>
 
 ### 👁️‍🗨️ Contagem de Visitantes
@@ -102,4 +109,4 @@ Fique à vontade para me chamar pelo [LinkedIn](http://www.linkedin.com/in/felip
 </div>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=faf7f7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0077cc,100:00eaff&height=120&section=footer"/>
