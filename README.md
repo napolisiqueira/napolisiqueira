@@ -62,7 +62,7 @@ Sigo evoluindo um passo de cada vez, valorizando mais a consistência do que a p
 <div align=center>
 
 ### 💼 Projetos em Destaque
-🗃️ [API de Gerenciamento de Uusuarios e Post com Flask](https://github.com/napolisiqueira/FlaskAPI) 🌐 [MEYU - Agenda de Contatos]([https://github.com/napolisiqueira/RoadmapJava](https://github.com/napolisiqueira/Contact-Me-Agend)) 📊 [GistlyAPI - Relatorios em Tempo Real com IA](https://github.com/napolisiqueira/GistlyAPI)
+🗃️ [API de Gerenciamento de Uusuarios e Post com Flask](https://github.com/napolisiqueira/FlaskAPI) 🌐 [MEYU - Agenda de Contatos](https://github.com/napolisiqueira/Contact-Me-Agend) 📊 [GistlyAPI - Relatorios em Tempo Real com IA](https://github.com/napolisiqueira/GistlyAPI)
 
 </div>
 </br>
