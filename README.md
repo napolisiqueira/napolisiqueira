@@ -84,7 +84,6 @@ Sigo evoluindo um passo de cada vez, valorizando mais a consistência do que a p
 <div align="center">
     <h3>PROJETOS EM ANDAMENTO</h3>
 <div align="center">🛒 E-commerce: um sistema completo com autenticação, carrinho de compras, painel administrativo e controle de estoque 🛒</div><br>
-<div align="center">📒 Address Book: uma aplicação para gerenciamento de contatos com foco em usabilidade e organização 📒</div><br>
 <div align="center">✍️ Blog: simples, direto e funcional — voltado para leitura e escrita de artigos, com sistema de categorias e comentários ✍️</div><br>
 <div align="center">🌐 Meu site pessoal: em construção! Estou aplicando tudo o que venho aprendendo para criar 🌐</div><br>
 <div align="center">🌐 um espaço que represente minha trajetória e projetos 🌐</div><br>
