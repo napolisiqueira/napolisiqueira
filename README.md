@@ -37,7 +37,13 @@ Sigo evoluindo um passo de cada vez, valorizando mais a consistência do que a p
         <img 
             alt="LinkedIn"
             title="LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:imfelipenapoli@gmail.com">
+      <img
+        alt="Email"
+        title="Email"
+        src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
 </div>
