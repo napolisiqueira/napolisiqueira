@@ -97,10 +97,10 @@ Sigo evoluindo um passo de cada vez, valorizando mais a consistência do que a p
 
 <div align="center">
     <h3>PROJETOS EM ANDAMENTO</h3>
-<div align="center">🛒 E-commerce: um sistema completo com autenticação, carrinho de compras, painel administrativo e controle de estoque 🛒</div><br>
-<div align="center">✍️ Blog: simples, direto e funcional — voltado para leitura e escrita de artigos, com sistema de categorias e comentários ✍️</div><br>
-<div align="center">🌐 Meu site pessoal: em construção! Estou aplicando tudo o que venho aprendendo para criar 🌐</div><br>
-<div align="center">🌐 um espaço que represente minha trajetória e projetos 🌐</div><br>
+<div align="center">🐶 Site para ONG: um site completo para uma ONG de proteção a Animais feita com HTML/CSS/JavaScript no Front-End e Java + Spring Boot no Back-End 🐶</div><br>
+<div align="center"> 🥦 Site para Nutrição Pessoal: um site onde podera calcular dietas a partir de calculos nutricionais especificos para cada caso, montar uma dieta e controlar Kcal, micro e macro nutrientes. 🥦</div><br>
+<div align="center"> 💵 Site de Finanças em Bolsa de Valor: neste projeto você pode administrar as finanças e ficar atento ao mercado financeiro mundial para medidas rapidas. 💵</div><br>
+
 
 </div>
 
