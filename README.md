@@ -67,8 +67,16 @@ Sigo evoluindo um passo de cada vez, valorizando mais a consistência do que a p
 
 <div align=center>
 
+### 💼 Cursos e Bootcamps em Destaque
+🗃️ [Bootcamp Baires Dev - Machine-Learning](https://github.com/napolisiqueira/Machine-Learning-Study) 🌐 [Bootcamp Santander - Python Back-End](https://github.com/napolisiqueira/BootcampSantander-Python-BackEnd) 📊 [DIO - Formação Java Developer](https://github.com/napolisiqueira/CursoJava)
+
+</div>
+</br>
+
+<div align=center>
+
 ### 💼 Projetos em Destaque
-🗃️ [API de Gerenciamento de Uusuarios e Post com Flask](https://github.com/napolisiqueira/FlaskAPI) 🌐 [MEYU - Agenda de Contatos](https://github.com/napolisiqueira/Contact-Me-Agend) 📊 [GistlyAPI - Relatorios em Tempo Real com IA](https://github.com/napolisiqueira/GistlyAPI)
+🗃️ [Templates de Sites](https://github.com/napolisiqueira/TemplatesPages) 🌐 [Portifolio Pessoal](https://github.com/napolisiqueira/Portifolio) 📊 [API de Usuarios em GoLang](https://github.com/napolisiqueira/API-Go-Registro-De-Usuarios)
 
 </div>
 </br>
@@ -97,16 +105,8 @@ Sigo evoluindo um passo de cada vez, valorizando mais a consistência do que a p
 </div>
 
 ---
-<div align=center>
 
-### 👁️‍🗨️ Contagem de Visitantes
-<div>
-<img src="https://profile-counter.glitch.me/napolisiqueira/count.svg"/>
-</div>
-
-</br>
-
----
+<div align="center">
 
 ### ✉️ Entre em Contato
 Fique à vontade para me chamar pelo [LinkedIn](http://www.linkedin.com/in/felipenapolisqr/) ou [Instagram](https://www.instagram.com/felipenapolisqr/) caso queira trocar uma ideia ou colaborar!
